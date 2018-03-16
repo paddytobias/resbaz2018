@@ -1,6 +1,6 @@
 # About
 
-The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. Throughout 2018 ResBaz events will be held at a number of university campuses around the globe.
+The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. Throughout 2018 ResBaz events will be held at a number of university campuses [around the globe](#mail-list).
 
 **ResBaz Sydney will be hosted by Macquarie University, 3-5 July, 2018**. It is organised and sponsored by University of Technology Sydney, The University of Sydney, University of New South Wales, Western Sydney University, and Macquarie University.
 
